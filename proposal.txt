@@ -1,0 +1,15 @@
+2023 대학교 네트워크 구축 설계 진행 계획서
+
+메인
+제안서.txt - architecture(master or main)
+모델 - engineer(branch)
+디자인 - design(branch)
+
+architecture
+- 전체적인 구성
+- 팀 관리 및 진행사항 체크
+
+다음 문서부터 네트워크 장비 설정에 관해서 작성해 주세요.
+
+지금 내가 뭘 따라하는걸까...........
+ㅠㅠ
